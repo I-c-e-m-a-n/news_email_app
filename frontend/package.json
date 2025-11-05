@@ -15,7 +15,8 @@
   },
   "devDependencies": {
     "vite": "^5.0.0",
+    "@vitejs/plugin-react": "^4.3.1",
     "gh-pages": "^5.0.0"
   },
-"homepage": "https://i-c-e-m-a-n.github.io/news_email_app"
+  "homepage": "https://i-c-e-m-a-n.github.io/news_email_app"
 }
